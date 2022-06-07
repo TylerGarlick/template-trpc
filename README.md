@@ -1,4 +1,4 @@
-# Project Readme
+# tRPC API
 
 > Some description
 
